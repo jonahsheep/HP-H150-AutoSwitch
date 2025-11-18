@@ -1,4 +1,4 @@
-**HP H150 Auto-Switch Bluetooth (Windows + Android)**
+# HP H150 Auto-Switch Bluetooth (Windows + Android)
 
 I put this entire setup together because I was so tired of constantly disconnecting and reconnecting my HP H150 earbuds between my laptop and my phone.
 The earbuds don’t support true multipoint, but with this setup, they behave almost exactly like they do.
