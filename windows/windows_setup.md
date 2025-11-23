@@ -33,3 +33,4 @@ I added it to startup so it works 24/7:
 
 Drop a shortcut to the PowerShell script here.
 Since then, my earbuds just “know” when to switch.
+Maybe in the future can make this into a full fledged app
